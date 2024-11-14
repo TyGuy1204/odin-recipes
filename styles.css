@@ -2,7 +2,8 @@
     border: solid black;
     background-color: white;
     text-align: center;
-    font-family: "Lucida Console", sans-serif;
+    font-family: "Monaco", sans-serif;
+    font-style: italic;
 }
 body{
     background-image: url("images/fall.jpg");
@@ -19,6 +20,7 @@ body{
 .links li{
     margin:0 40px;
     display:inline;
+    font-style: italic;
 }
 .links li a{
     margin-right: 50px;
