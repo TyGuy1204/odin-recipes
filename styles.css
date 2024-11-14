@@ -1,22 +1,19 @@
-h1{
+.page_header{
+    border: solid black;
+    background-color: white;
+    text-align: center;
     font-family: "Lucida Console", sans-serif;
-    font-size: 50px;
-}
-h2, h3, h4, h5{
-    font-family: "Verdana", sans-serif;
-}
-ul, ol{
-    font-family: "Monaco",sans-serif;
-    font-size: 20px;
-}
-img{
-    width: 500px;
-    height: 500px;
 }
 body{
-    color: white;
-    background-image: url("images/fall.jpg") ;
+    background-image: url("images/fall.jpg");
 }
-a:visited{
-    color:white;
+.page_content{
+    border: solid black;
+    background-color: white;
+    margin-top: 10px;
+    font-family: "Monaco", sans-serif;
+}
+.links{
+    text-align: center;
+    font-size: 20px;
 }
